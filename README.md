@@ -1,3 +1,3 @@
-# New_deposit
+"REMOTE"
 
 Ce dépôt est pour expérimenter les conflits Git.
